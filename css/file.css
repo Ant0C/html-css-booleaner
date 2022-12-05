@@ -19,14 +19,19 @@
 }
 .testoevidenziato{background-color: yellow;}
 
+.tabella{border-collapse: collapse;
+         text-align: left;
+}
+
 .thead{color: white; background-color: #106cc3; }
 
-.rigapari{background-color: #2196f3;}
+.rigadispari{background-color: #2196f3;}
 
-.tabella{border-collapse: collapse;}
 
-.tdeth{border: 1px solid; 
-       text-align: left; 
-       border: none; 
-       padding-right: 120px;}
+.monitor{position: relative; color: white;}
+.testomonitor{position: absolute; top: 8px; left: 16px;}
+
+.graph{position: relative; color: white;}
+.testograph{position: absolute; top: 8px; left: 16px;}
+
 
