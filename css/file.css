@@ -1,9 +1,18 @@
 .sfondo { background-image: url(../img/pattern.png);
           background-color: #2196f3;
-          background-size: 60%;
+          background-size: 37%;
           height: 100px;
 }
 
 .logo{height: 130px;
       width: 150px;
 }
+
+.titolo{font-size: 40px;}
+
+.nome{color: aqua;}
+.fonttesto{color: gray;}
+.fontdata{color: gray;
+        font-size: 10px;
+}
+.testoevidenziato{background-color: yellow;}
