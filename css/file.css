@@ -11,8 +11,19 @@
 .titolo{font-size: 40px;}
 
 .nome{color: aqua;}
+
 .fonttesto{color: gray;}
+
 .fontdata{color: gray;
         font-size: 10px;
 }
 .testoevidenziato{background-color: yellow;}
+
+.thead{color: white; background-color: #106cc3; }
+
+.rigapari{background-color: #2196f3;}
+
+.tabella{border-collapse: collapse;}
+
+.tdeth{border: 1px solid; text-align: left; border: none; padding-right: 120px;}
+
