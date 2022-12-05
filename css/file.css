@@ -1,0 +1,9 @@
+.sfondo { background-image: url(../img/pattern.png);
+          background-color: #2196f3;
+          background-size: 60%;
+          height: 100px;
+}
+
+.logo{height: 130px;
+      width: 150px;
+}
