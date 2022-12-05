@@ -15,7 +15,7 @@
 .fonttesto{color: gray;}
 
 .fontdata{color: gray;
-        font-size: 10px;
+          font-size: 15px;
 }
 .testoevidenziato{background-color: yellow;}
 
@@ -25,5 +25,8 @@
 
 .tabella{border-collapse: collapse;}
 
-.tdeth{border: 1px solid; text-align: left; border: none; padding-right: 120px;}
+.tdeth{border: 1px solid; 
+       text-align: left; 
+       border: none; 
+       padding-right: 120px;}
 
